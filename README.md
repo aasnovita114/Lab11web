@@ -33,10 +33,17 @@
 
 **4. Hasil Output Halaman Home :**
 
+![ss11](https://github.com/aasnovita114/Lab11web/assets/116045324/fd71a9fc-0e1f-49da-a030-0ad42cbbe1e5)
+
+
 **7. Hasil Output Halaman About :**
+
+![ss12](https://github.com/aasnovita114/Lab11web/assets/116045324/fc775402-7a21-41d0-9ce6-c41a29c7f1bb)
 
 
 **8. Hasil Output Halaman Contact :**
+
+![ss13](https://github.com/aasnovita114/Lab11web/assets/116045324/f57681d7-12cc-40f7-b34e-b8a54200a918)
 
 
 ## Selesai, Terima Kasih
